@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuineasECS", "GuineasECS\GuineasECS.csproj", "{F8F60A55-6FC3-75B8-96E2-FE0B02B2689B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuineasECS.Test", "GuineasECS.Test\GuineasECS.Test.csproj", "{67C81B6E-0415-05A4-7591-C1D9247B3925}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8F60A55-6FC3-75B8-96E2-FE0B02B2689B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8F60A55-6FC3-75B8-96E2-FE0B02B2689B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8F60A55-6FC3-75B8-96E2-FE0B02B2689B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8F60A55-6FC3-75B8-96E2-FE0B02B2689B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67C81B6E-0415-05A4-7591-C1D9247B3925}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67C81B6E-0415-05A4-7591-C1D9247B3925}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67C81B6E-0415-05A4-7591-C1D9247B3925}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67C81B6E-0415-05A4-7591-C1D9247B3925}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7CD9E661-5C19-4C6C-A8DD-BCB6501AEF19}
+	EndGlobalSection
+EndGlobal
